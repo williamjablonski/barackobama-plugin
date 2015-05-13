@@ -7,19 +7,19 @@
     </parent>
 
     <groupId>org.jvnet.hudson.plugins</groupId>
-    <artifactId>chucknorris</artifactId>
+    <artifactId>barackobama</artifactId>
     <version>0.6-SNAPSHOT</version>
-    <name>ChuckNorris Plugin</name>
-    <description>Displays a picture of Chuck Norris (instead of Jenkins the butler) and a random Chuck Norris 'The Programmer' fact on each build page.</description>
-    <url>http://wiki.jenkins-ci.org/display/JENKINS/ChuckNorris+Plugin</url>
+    <name>BarackObama Plugin</name>
+    <description>Displays a picture of Barack Obama (instead of Jenkins the butler) and a random Barack Obama 'The Programmer' fact on each build page.</description>
+    <url>http://wiki.jenkins-ci.org/display/JENKINS/BarackObama+Plugin</url>
     <packaging>hpi</packaging>
 
     <developers>
         <developer>
-            <id>cliffano</id>
-            <name>Cliffano Subagio</name>
-            <email>blah@cliffano.com</email>
-            <timezone>+10</timezone>
+            <id>williamjablonski</id>
+            <name>William Melchior Jablonski</name>
+            <email>william.jablonski@gmail.com</email>
+            <timezone>-3</timezone>
         </developer>
     </developers>
     <licenses>
@@ -126,9 +126,9 @@
     </reporting>
     
     <scm>
-        <connection>scm:git:git://github.com/jenkinsci/chucknorris-plugin.git</connection>
-        <developerConnection>scm:git:git@github.com:jenkinsci/chucknorris-plugin.git</developerConnection>
-        <url>https://github.com/jenkinsci/chucknorris-plugin</url>
+        <connection>scm:git:git://github.com/williamjablonski/barackobama-plugin.git</connection>
+        <developerConnection>scm:git:git@github.com:williamjablonski/barackobama-plugin.git</developerConnection>
+        <url>https://github.com/williamjablonski/barackobama-plugin</url>
     </scm>
 
     <pluginRepositories>
